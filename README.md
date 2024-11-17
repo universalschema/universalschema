@@ -30,3 +30,12 @@ For example, we know that living beings take in food to maintain their bodies.
 
 
 ![Lebewesen_EN](https://github.com/user-attachments/assets/71c78c03-710e-4829-8b0b-4de75607108d)
+
+
+## Videos
+
+https://media.ccc.de/v/rc3-channels-2020-54-nichts-ist-unmglich-
+
+https://www.youtube.com/playlist?list=PLDF4356B5AEE37911
+
+[videos](./videos)
