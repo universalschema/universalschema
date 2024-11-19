@@ -33,9 +33,5 @@ For example, we know that living beings take in food to maintain their bodies.
 
 
 ## Videos
-
-https://media.ccc.de/v/rc3-channels-2020-54-nichts-ist-unmglich-
-
-https://www.youtube.com/playlist?list=PLDF4356B5AEE37911
-
-[videos](./videos)
+- [Anwednungsbeispiele Universalschema DE](https://archive.org/details/anwendungsbeispiele-fur-das-universalschema-76-d-6d-9p-ogyc)
+- [Examples of Usage for the Universal Schema EN](https://archive.org/details/examples-of-use-for-the-universal-schema-xyg-vam-cpb-zc)
